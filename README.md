@@ -1,5 +1,5 @@
 # MRIBrainSegmentation
-MRI Brian segmentation using self-organising neural networks and watershed segmentation
+MRI Brain segmentation using self-organising neural networks and watershed segmentation
 
 This is an implementation of the algorithm proposed in: 
 
