@@ -9,7 +9,7 @@ Simply run the demo.m file to see the results over the two test images.
 ## Papers
 
 ```
-@article{Emambakhsh:2017,
+@inproceedings{Emambakhsh:2017,
   title={Automatic MRI brain segmentation using local features, self-organizing maps, and watershed},
   author={M. Emambakhsh and M. Sedaaghi},
   journal={IEEE International Conference on Signal and Image Processing Applications (ICSIPA)},
