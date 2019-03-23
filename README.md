@@ -1,10 +1,19 @@
-# MRIBrainSegmentation
-MRI Brain segmentation using self-organising neural networks and watershed segmentation
+# MRI brain segmentation using neural networks
 
-This is an implementation of the algorithm proposed in: 
+An implementation of MRI Brain segmentation using self-organising neural networks and watershed algorithm is presented.
 
-M. Emambakhsh and M. Sedaaghi, “Automatic MRI brain segmentation using local features, self-organizing maps, and watershed,” in IEEE International Conference on Signal and Image Processing Applications (ICSIPA 2009), Kuala Lumpur, Malaysia, 2009, pp. 129–134. 
-
-http://ieeexplore.ieee.org/document/5478631/
+## Getting started
 
 Simply run the demo.m file to see the results over the two test images.
+
+## Papers
+
+```
+@article{Emambakhsh:2017,
+  title={Automatic MRI brain segmentation using local features, self-organizing maps, and watershed},
+  author={M. Emambakhsh and M. Sedaaghi},
+  journal={IEEE International Conference on Signal and Image Processing Applications (ICSIPA)},
+  pages={129--134},
+  year={2009}
+}
+```
